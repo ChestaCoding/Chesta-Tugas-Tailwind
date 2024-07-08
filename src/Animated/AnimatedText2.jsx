@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 const AnimatedText = () => {
   const [text, setText] = useState("");
-  const fullText = "Think outside the\nspuare space";
+  const fullText = "Thhink outside the\nspuare space";
 
   useEffect(() => {
     let index = 0;

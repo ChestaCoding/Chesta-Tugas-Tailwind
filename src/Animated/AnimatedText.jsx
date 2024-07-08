@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 const AnimatedText = () => {
   const [text, setText] = useState("");
-  const fullText = "Think.Make.\nSolve.";
+  const fullText = "Thhink.Make.\nSolve.";
 
   useEffect(() => {
     let index = 0;

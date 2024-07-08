@@ -61,12 +61,9 @@ function Home() {
             Sumbit
           </button>
         </div>
-        <div className="size-96 ml-[850px] mt-[-380px]">
-          <img
-            src="src/Home/—Pngtree—cute cartoon astronaut hugging rocket_6464125.png"
-            alt=""
-          />
-        </div>
+      </div>
+      <div className="size-[500px] ml-[850px] mt-[-550px] relative ">
+        <img src="src/Home/moon.png" alt="" />
       </div>
     </div>
   );
